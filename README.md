@@ -27,5 +27,25 @@ This Database Design is for the Case Study 2
 # ⚒️ Tool Used
 ![MySQl](https://user-images.githubusercontent.com/103429014/213102898-06566418-504f-40c1-b8f9-9b4a61bb633c.png)
 
-# ❓ CASE STUDY I Requirements:
+# ❓ CASE STUDY 1 Requirements:
+- [Calculate the number of jobs reviewed per hour per day for November 2020?](https://github.com/avishgumber/Operation-Investigation_Metric_Analysis/blob/main/MySQL_Solutions/Case_Study1.md)
+- [Calculate 7 day rolling average of throughput?](https://github.com/avishgumber/Operation-Investigation_Metric_Analysis/blob/main/MySQL_Solutions/Case_Study1.md)
+- [Calculate the percentage share of each language in the last 30 days?](https://github.com/avishgumber/Operation-Investigation_Metric_Analysis/blob/main/MySQL_Solutions/Case_Study1.md)
+- [Let’s say you see some duplicate rows in the data. How will you display duplicates from the table?](https://github.com/avishgumber/Operation-Investigation_Metric_Analysis/blob/main/MySQL_Solutions/Case_Study1.md)
+
+# ❓ CASE STUDY 2 Requirements:
+- [Calculate the weekly user engagement?](https://github.com/avishgumber/Operation-Investigation_Metric_Analysis/blob/main/MySQL_Solutions/Case_Study2.md)
+- [Calculate the user growth for product?](https://github.com/avishgumber/Operation-Investigation_Metric_Analysis/blob/main/MySQL_Solutions/Case_Study2.md)
+- [Calculate the weekly retention of users-sign up cohort?](https://github.com/avishgumber/Operation-Investigation_Metric_Analysis/blob/main/MySQL_Solutions/Case_Study2.md)
+- [Calculate the weekly engagement per device?](https://github.com/avishgumber/Operation-Investigation_Metric_Analysis/blob/main/MySQL_Solutions/Case_Study2.md)
+- [Calculate the email engagement metrics?](https://github.com/avishgumber/Operation-Investigation_Metric_Analysis/blob/main/MySQL_Solutions/Case_Study2.md)
+
+# 🎯 Insights
+- On an average `0.0111` seconds of time was spent by the user on every job.
+- `Persian Language` Jobs were visited the most in the November month 2020.
+- We have total `9381` active users on the platform.
+- `Macbook Pro` have been seen as the highest used device in a single week.
+- We have a email clicking rate of `14.79%` and email opening rate of `33.58%`.
+- Our Retention rate stands at around `25.78%` which is a matter of concern and needs to be looked at.
+- The table of the `Job Data doesn’t have any duplicate rows`.
 
